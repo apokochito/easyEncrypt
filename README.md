@@ -1,0 +1,2 @@
+# easyEncrypt
+Encrypt method practice
